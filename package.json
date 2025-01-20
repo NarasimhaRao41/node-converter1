@@ -1,0 +1,24 @@
+{
+  "name": "converter1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NarasimhaRao41/node-converter1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NarasimhaRao41/node-converter1/issues"
+  },
+  "homepage": "https://github.com/NarasimhaRao41/node-converter1#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "prompt-sync": "^4.2.0"
+  }
+}
